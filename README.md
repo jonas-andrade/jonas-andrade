@@ -2,35 +2,35 @@
 
 ### 👨‍💻 Perfil Profissional
 
-Engenheiro/Desenvolvedor movido por uma **curiosidade técnica profunda** e uma abordagem **holística** para sistemas de computação. Minha trajetória me proporcionou uma base sólida que interliga *software*, *hardware* e *infraestrutura*.
+Engenheiro de Software/Desenvolvedor Sênior movido por uma **curiosidade técnica profunda** e uma abordagem **holística** para sistemas de computação. Minha base sólida interliga *software*, *hardware* e *infraestrutura*, com especialização em **Desenvolvimento Empresarial Java e Arquiteturas Web**.
 
-Estou ativamente buscando expandir conhecimentos em [Sua Área de Foco Atual, ex: Cloud Computing, Machine Learning] e colaborar em projetos que exijam soluções escaláveis e tecnicamente robustas.
+Estou ativamente buscando expandir conhecimentos em **Cloud Computing (AWS/Azure) e Microsserviços**, e colaborar em projetos que exijam soluções **escaláveis**, de alta performance e tecnicamente robustas, utilizando o ecossistema **Jakarta EE**.
 
 ---
 
 ### 🚀 Core Competencies (Competências Chave)
 
-Minha experiência é sustentada por uma base técnica diversificada, adquirida através da exploração prática e autodidata de sistemas complexos:
+Minha experiência é sustentada por uma base técnica diversificada:
 
 | Domínio Técnico | Habilidades Chave |
 | :--- | :--- |
-| **Networking & Protocolos** | Sólido entendimento em **HTTP, DNS, Proxy, Sockets** e arquiteturas de comunicação de rede. |
-| **Sistemas Operacionais** | Proficiência em ambientes **Linux/Unix**, **Bash** e **Shell Scripting** para automação e rotinas de sistema. |
-| **Desenvolvimento de Software** | Fundamentos robustos em programação orientada a objetos (Base em **Java**) e metodologias de desenvolvimento. |
-| **Hardware & Embarcados** | Conhecimento prático em **Hardware, Eletrônica, IoT e Sistemas Embarcados**, permitindo a integração de soluções de ponta a ponta. |
+| **Java Enterprise (Back-end)** | Proficiência em **Java**, **Jakarta EE/Java EE**, **Servlets**, **JSP**, e servidores de aplicação (WildFly, GlassFish). |
+| **Sistemas Operacionais & DevOps** | Experiência prática em ambientes **Linux/Unix**, **Bash** e **Shell Scripting** para automação de *deploy* e rotinas de sistema. |
+| **Networking & Protocolos** | Sólido entendimento em **HTTP, DNS, Proxy, Sockets** e arquiteturas de comunicação essenciais para aplicações distribuídas. |
+| **Desenvolvimento Base** | Fundamentos robustos em Programação Orientada a Objetos (**OOP**), Design Patterns e metodologia de desenvolvimento ágil. |
+| **Hardware & Embarcados** | Conhecimento prático em **Hardware, Eletrônica, IoT e Sistemas Embarcados**, auxiliando em projetos que integram *software* e dispositivos físicos. |
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-| Categoria | Tecnologias (Exemplo) |
+| Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Java, Python, JavaScript, C/C++ |
-| **S.O. & Shell** | Linux (Distro: [Sua Preferida]), Bash, Scripts Unix |
+| **Linguagens** | Java (Principal), Python, JavaScript, C/C++ |
+| **Frameworks** | Jakarta EE, Spring Boot, Hibernate/JPA, JSF |
 | **Banco de Dados** | PostgreSQL, MySQL, MongoDB |
-| **DevOps/Cloud** | Git, Docker, [AWS/Azure/GCP - Se aplicável] |
-
-*(**Dica Profissional:** Use **Badges/Ícones** para deixar esta seção visualmente mais rica e concisa. Você pode usar serviços como [Shields.io](https://shields.io/) para gerar os ícones das tecnologias que você domina.)*
+| **DevOps & Cloud** | Git, Docker, Kubernetes (Básico), AWS |
+| **Ferramentas** | Maven, Gradle, JIRA, JUnit |
 
 ---
 
@@ -38,12 +38,15 @@ Minha experiência é sustentada por uma base técnica diversificada, adquirida 
 
 | Ícone | Plataforma | Contato |
 | :--- | :--- | :--- |
-| 🔗 | **LinkedIn** | [Seu Perfil do LinkedIn](Link Aqui) |
+| 🔗 | **LinkedIn** | [Link do Seu Perfil do LinkedIn] |
 | 📧 | **Email** | [Seu Email Profissional] |
-| 🔭 | **Estou Trabalhando Em:** | [Breve descrição do seu projeto principal] |
-| 🌱 | **Estou Aprendendo:** | [Tecnologia que está estudando agora] |
+| 🔭 | **Estou Trabalhando Em:** | Desenvolvimento de uma API RESTful corporativa com Jakarta EE e PostgreSQL. |
+| 🌱 | **Estou Aprendendo:** | Implantação de Microsserviços usando Quarkus e AWS Lambda. |
 
 ---
 
-###### 📈 Github Stats
-*[Placeholder para Cartões de Estatísticas do GitHub, se desejar incluir. Procure por "GitHub Profile Stats Card" para gerar esses gráficos.]*
+### 📈 Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonas-andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-andrade&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
