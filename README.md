@@ -39,7 +39,7 @@ Minha experiência é sustentada por uma base técnica diversificada:
 | Ícone | Plataforma | Contato |
 | :--- | :--- | :--- |
 | 🔗 | **LinkedIn** | [Meu Perfil no LinkedIn](https://www.linkedin.com/in/jonasmedeiros00/) |
-| 📧 | **Email** | [huey_freeman.dev@dominio.com](mailto:huey_freeman.dev@dominio.com) |
+| 📧 | **Email** | [huey_freeman.dev@proton.me](mailto:huey_freeman.dev@proton.me) |
 | 🔭 | **Estou Trabalhando Em:** | Desenvolvimento de uma API RESTful corporativa com Jakarta EE e PostgreSQL. |
 | 🌱 | **Estou Aprendendo:** | Implantação de Microsserviços usando Quarkus e AWS Lambda. |
 ---
