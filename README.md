@@ -1,51 +1,39 @@
 # Olá, eu sou Jonas Andrade! 👋
 
-### 👨‍💻 Perfil Profissional
-
-Engenheiro de Software/Desenvolvedor Sênior movido por uma **curiosidade técnica profunda** e uma abordagem **holística** para sistemas de computação. Minha base sólida interliga *software*, *hardware* e *infraestrutura*, com especialização em **Desenvolvimento Empresarial Java e Arquiteturas Web**.
-
-Estou ativamente buscando expandir conhecimentos em **Cloud Computing (AWS/Azure) e Microsserviços**, e colaborar em projetos que exijam soluções **escaláveis**, de alta performance e tecnicamente robustas, utilizando o ecossistema **Jakarta EE**.
+### Perfil
+Desenvolvedor Java, Especialista em Jakarta EE/Java EE, apaixonado por Arquiteturas Web Robustas, com base sólida em Linux e Networking. Eu interligo software, hardware e infraestrutura.
 
 ---
 
-### 🚀 Core Competencies (Competências Chave)
+### 🚀 Status & Objetivos
 
-Minha experiência é sustentada por uma base técnica diversificada:
-
-| Domínio Técnico | Habilidades Chave |
-| :--- | :--- |
-| **Java Enterprise (Back-end)** | Proficiência em **Java**, **Jakarta EE/Java EE**, **Servlets**, **JSP**, e servidores de aplicação (WildFly, GlassFish). |
-| **Sistemas Operacionais & DevOps** | Experiência prática em ambientes **Linux/Unix**, **Bash** e **Shell Scripting** para automação de *deploy* e rotinas de sistema. |
-| **Networking & Protocolos** | Sólido entendimento em **HTTP, DNS, Proxy, Sockets** e arquiteturas de comunicação essenciais para aplicações distribuídas. |
-| **Desenvolvimento Base** | Fundamentos robustos em Programação Orientada a Objetos (**OOP**), Design Patterns e metodologia de desenvolvimento ágil. |
-| **Hardware & Embarcados** | Conhecimento prático em **Hardware, Eletrônica, IoT e Sistemas Embarcados**, auxiliando em projetos que integram *software* e dispositivos físicos. |
+* 🔭 **Trabalhando em:** Desenvolvimento de uma API RESTful corporativa usando Jakarta EE e PostgreSQL.
+* 🌱 **Aprendendo:** Padrões de Microsserviços, Quarkus e implantação Serverless com AWS Lambda.
+* 👯 **Colaboração:** Aberto a projetos Open Source focados em Java Enterprise.
+* 🤔 **Buscando ajuda com:** Ideias de projetos que unam Java, IoT e Sistemas Embarcados.
+* 💬 **Pergunte-me sobre:** Linux/Unix, Shell Scripting, e fundamentos de HTTP/Proxy/Sockets.
+* ⚡ **Fato Interessante:** Minha curiosidade técnica surgiu ao analisar falhas de autenticação em redes móveis usando um Nokia Asha 303 e Opera Mini.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Competências Chave
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Java (Principal), Python, JavaScript, C/C++ |
-| **Frameworks** | Jakarta EE, Spring Boot, Hibernate/JPA, JSF |
-| **Banco de Dados** | PostgreSQL, MySQL, MongoDB |
-| **DevOps & Cloud** | Git, Docker, Kubernetes (Básico), AWS |
-| **Ferramentas** | Maven, Gradle, JIRA, JUnit |
+**Linguagens:** Java (Proficiente), Python, C/C++
+**Enterprise:** Jakarta EE, Servlets, JSF, Spring Boot, Hibernate/JPA
+**Infra/DevOps:** Linux, Bash, Shell Scripting, Docker, Git, AWS (Básico)
+**Networking:** HTTP, Sockets, Proxy, DNS
 
 ---
 
 ### 🌐 Conecte-se
 
-| Ícone | Plataforma | Contato |
-| :--- | :--- | :--- |
-| 🔗 | **LinkedIn** | [Meu Perfil no LinkedIn](https://www.linkedin.com/in/jonasmedeiros00/) |
-| 📧 | **Email** | [huey_freeman.dev@proton.me](mailto:huey_freeman.dev@proton.me) |
-| 🔭 | **Estou Trabalhando Em:** | Desenvolvimento de uma API RESTful corporativa com Jakarta EE e PostgreSQL. |
-| 🌱 | **Estou Aprendendo:** | Implantação de Microsserviços usando Quarkus e AWS Lambda. |
+* 🔗 **LinkedIn:** [Meu Perfil no LinkedIn](https://www.linkedin.com/in/jonasmedeiros00/)
+* 📧 **Email:** [huey_freeman.dev@proton.me](mailto:huey_freeman.dev@proton.me)
+* 🗣️ **Idiomas:** Português | English (Intermediário)
+
 ---
 
-### 📈 Estatísticas do GitHub
+###### 📈 Github Stats
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonas-andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-andrade&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
