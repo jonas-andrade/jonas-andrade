@@ -1,4 +1,4 @@
-# Olá, eu sou Jonas Andrade! 👋
+# Olá, eu sou Jonas Medeiros! 👋
 
 ### Perfil
 Desenvolvedor Java, Especialista em Jakarta EE/Java EE, apaixonado por Arquiteturas Web Robustas, com base sólida em Linux e Networking. Eu interligo software, hardware e infraestrutura.
