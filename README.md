@@ -41,7 +41,3 @@ Construo pipelines seguros, automatizo ambientes e opero redes — unindo desenv
 - 🌎 **Idiomas:** Português (Nativo), Inglês (Intermediário)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonas-andrade&show_icons=true&theme=dark)
